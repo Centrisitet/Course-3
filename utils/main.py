@@ -1,4 +1,4 @@
-from utils import *
+from funcs import *
 
 file = 'operations.json'
 
