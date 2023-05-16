@@ -1,6 +1,6 @@
 from funcs import *
 
-file = 'operations.json'
+file = '../operations.json'
 
 operations = open_file(file)
 operations = sort_dates(operations)
